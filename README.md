@@ -52,6 +52,11 @@ Units sold by stores by Total ROI
 Sales Category by Market
 Region by Sales Category```
 ## CONCLUSION
-
+From the analysis of this data set we can deduce that the sum of Revenue for the six region is 786678
+sum of revenue by market is 73,031,990,280
+the top 5 stores are Ajaokuta, Ankpa,  Auyo, Bende, Isiala Ngwa North
+The region with the highest revenue is  North East with 18,641,963,520
+The region with the Highest unit sold is North East with 208983
+Top 3 markets by Total ROI are Akwa Ibom, Bayelsa and Cross River
 
    
