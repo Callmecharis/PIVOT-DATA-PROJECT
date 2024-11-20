@@ -1,6 +1,6 @@
 # PIVOT-DATA-PROJECT
 ## INTRODUCTION/ OVERVIEW
-The Pivot Data is more of a business data, pivot is majorly for summerisation of data. The pivot data involves Market sales in six region in the Nigeria. the data showcase the stores, line of Business, Revenue made by each region and Market within a Fiscal Period. project aims to generate insight into the sales performance of market inventory to know the sales and revenue of each market and stores by unit sold within a trade date or a fiscal period using all these parameters to gain insight to make informed business decision with data gotten from the summarisation of data and data visualization.The Sales Category we analyse with Ms. Excel functiion to be derive the Sales category into Low, Medium and High```
+The Pivot Data is more of a business data, pivot is majorly for summerisation of data. The pivot data involves Market sales in six region in the Nigeria, the data showcase the stores, line of Business, Revenue made by each region and Market within a Fiscal Period. project aims to generate insight into the sales performance of market inventory to know the sales and revenue of each market and stores by unit sold within a trade date or a fiscal period using all these parameters to gain insight to make informed business decision with data gotten from the summarisation of data and data visualization.The Sales Category we analyse with Ms. Excel functiion to be derive the Sales category into Low, Medium and High```
 ## TOOLS USED
 •	Ms Excel Download Here
 •	GooglesheetDownload Here
@@ -21,8 +21,10 @@ The primary source of the data is gotten from ms excel and this an open source d
 WHERE CONDITION =TRUE
 4.	Removal of unnecessary column 14 and 15 using power Bi
 5.	Key transformations: when the data is transformed on Power Bi we checked on the View tab for Column quality, value distribution,, column profile, column distribution, column statistics
-EXPLORATORY DATA ANALYSIS
-EDA involved the exploring of the data to answer some questions about the data such as
+Using Power Bi making use of Dax function to generate Total ROI
+We created new measure on the table model using conditional column to get Region Number```
+## EXPLORATORY DATA ANALYSIS
+EDA involved the exploring of the data with visualisation on Power BI to answer some questions about the data such as;
   * Total region by revenue
   * Top five markets and their revenue
   * Bottom five stores by units sold
@@ -35,4 +37,21 @@ EDA involved the exploring of the data to answer some questions about the data s
   * Region by Sales Category
   * 
 
+## KEY INSIGHT/ INFERENCE
 
+The key insight derived from analysing the Pivot Data using Power Bi as tool of analysis to generate visuals using Tables and Matrix that depicts 
+sum of region by fiscal period(year)
+region by sum of revenue
+region by sum of units sold
+Bottom five stores by units sold
+Top ten store by revenue
+top ten stores by line of business
+sales category by market
+top 3 market by sum of total ROI
+Units sold by stores by Total ROI
+Sales Category by Market
+Region by Sales Category```
+## CONCLUSION
+
+
+   
