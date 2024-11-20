@@ -1,6 +1,6 @@
 # PIVOT-DATA-PROJECT
 ## INTRODUCTION/ OVERVIEW
-The Pivot Data is more of a business data, pivot is majorly for summerisation of data. The pivot data involves Market sales in six region in the Nigeria. the datat showcase the stores, line of Business, Revenue made by each region and Market within a Fiscal Period. The Sales Category we analyse with Ms. Excel functiion to be derive the Sales category into Low, Medium and High```
+The Pivot Data is more of a business data, pivot is majorly for summerisation of data. The pivot data involves Market sales in six region in the Nigeria. the data showcase the stores, line of Business, Revenue made by each region and Market within a Fiscal Period. project aims to generate insight into the sales performance of market inventory to know the sales and revenue of each market and stores by unit sold within a trade date or a fiscal period using all these parameters to gain insight to make informed business decision with data gotten from the summarisation of data and data visualization.The Sales Category we analyse with Ms. Excel functiion to be derive the Sales category into Low, Medium and High```
 ## TOOLS USED
 •	Ms Excel Download Here
 •	GooglesheetDownload Here
