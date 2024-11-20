@@ -20,7 +20,7 @@ The primary source of the data is gotten from ms excel and this an open source d
 3.	SELECT * =IFS(J2<=20,"LOW",J2<=50,"MEDIUM",J2>50,"HIGH")
 WHERE CONDITION =TRUE
 4.	Removal of unnecessary column 14 and 15 using power Bi
-5.	checking for column quality, value distribution
+5.	Key transformations: when the data is transformed on Power Bi we checked on the View tab for Column quality, value distribution,, column profile, column distribution, column statistics
 EXPLORATORY DATA ANALYSIS
 EDA involved the exploring of the data to answer some questions about the data such as
   * Total region by revenue
